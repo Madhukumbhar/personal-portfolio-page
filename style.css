@@ -15,12 +15,12 @@ body {
 .profileBody {
   display: inline-block;
   background-color: white;
-  margin-top: 30px;
+  margin-top: 6px;
   margin-left: 55px;
   padding-top: 30px;
   padding-left: 50px;
   width: 80%;
-  height: 570px;
+  height: 590px;
 }
 h2{
     font-size: 120%;
